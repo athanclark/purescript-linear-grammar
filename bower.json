@@ -11,6 +11,8 @@
     "output"
   ],
   "dependencies": {
-    "purescript-console": "^0.1.0"
+    "purescript-console": "^0.1.0",
+    "purescript-maps": "~0.5.0",
+    "purescript-rationals": "~0.3.0"
   }
 }
